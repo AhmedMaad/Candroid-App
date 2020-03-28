@@ -1,0 +1,2 @@
+rootProject.name='Candroid'
+include ':app'

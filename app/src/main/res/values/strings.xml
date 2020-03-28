@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Candroid</string>
+    <string name="jelly_bean">Jelly Bean</string>
+    <string name="kitkat">KitKat</string>
+    <string name="lollipop">Lollipop</string>
+    <string name="marshmallow">Marshmallow</string>
+    <string name="nougat">Nougat</string>
+    <string name="oreo">Oreo</string>
+    <string name="pie">Pie</string>
+</resources>
